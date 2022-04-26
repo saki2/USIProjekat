@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DY6X4h+CWRmVYaNQXGqx/iGa388rk5u4x/fyEKeyrk7bhhJmCYFBzSst+s9baBTf5TfHjAj/ObqS3YLchC5fQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programiranje\\C#\\UVOD U SOFTVERSKO INZENJERSTVO\\bzvz4\\ClinicApp\\ClinicDTO\\ClinicDTO.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\aleks\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
